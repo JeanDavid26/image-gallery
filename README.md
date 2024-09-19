@@ -6,7 +6,7 @@
 - [x] Scaffold basic ui with mock data
 - [x] Setup faster build next config
 - [X] Actually set up a database
-- [ ] Attach database to ui
+- [x] Attach database to ui
 - [ ] Add authentication
 - [ ] Error monitoring (/w Sentry)
 - [ ] Routing / image page
