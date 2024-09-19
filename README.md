@@ -7,7 +7,7 @@
 - [x] Setup faster build next config
 - [X] Actually set up a database
 - [x] Attach database to ui
-- [ ] Add authentication
+- [x] Add authentication
 - [ ] Error monitoring (/w Sentry)
 - [ ] Routing / image page
 - [ ] Delete button (/w server action)
