@@ -10,6 +10,7 @@
 - [x] Add authentication
 - [ ] Add image upload
 - [ ] taint (server only)
+- [ ] Use next/image component
 - [ ] Error monitoring (/w Sentry)
 - [ ] Routing / image page
 - [ ] Delete button (/w server action)
