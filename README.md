@@ -8,9 +8,9 @@
 - [X] Actually set up a database
 - [x] Attach database to ui
 - [x] Add authentication
-- [ ] Add image upload
-- [ ] taint (server only)
-- [ ] Use next/image component
+- [x] Add image upload
+- [X] taint (server only)
+- [X] Use next/image component
 - [ ] Error monitoring (/w Sentry)
 - [ ] Routing / image page
 - [ ] Delete button (/w server action)
