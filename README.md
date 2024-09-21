@@ -11,7 +11,7 @@
 - [x] Add image upload
 - [X] taint (server only)
 - [X] Use next/image component
-- [ ] Error monitoring (/w Sentry)
+- [x] Error monitoring (/w Sentry)
 - [ ] Routing / image page
 - [ ] Delete button (/w server action)
 - [ ] Analytics
